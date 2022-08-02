@@ -1,4 +1,4 @@
 # Demo
 
 
-print('hello,World')
+standard 
